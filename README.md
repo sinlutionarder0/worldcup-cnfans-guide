@@ -1,2 +1,14 @@
 # worldcup-cnfans-guide
-HTML page archive and documentation
+
+静态内容发布记录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
